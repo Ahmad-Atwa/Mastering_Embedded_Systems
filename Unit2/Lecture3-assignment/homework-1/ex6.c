@@ -20,6 +20,7 @@ int main()
 
 	printf("After swapping, value of a= %.2f\n",a);
 	printf("After swapping, value of b= %.2f\n",b);
-}
 
+return 0;
+}
 

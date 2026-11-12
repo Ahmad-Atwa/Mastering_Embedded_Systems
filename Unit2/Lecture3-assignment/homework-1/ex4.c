@@ -8,6 +8,8 @@ int main()
 	printf("Enter Two Numbers: ");
 	scanf("%f%f",&n1,&n2);
 	printf("Product: %f\n",n1*n2);
+
+return 0; 
 }
 
 

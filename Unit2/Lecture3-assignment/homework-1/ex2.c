@@ -7,6 +7,8 @@ int main()
 	printf("Enter an Integer: ");
 	scanf("%d",&input);
 	printf("You Entered %d\n",input);
+
+return 0;
 }
 
 
