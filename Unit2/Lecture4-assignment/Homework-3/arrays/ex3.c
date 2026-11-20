@@ -37,10 +37,10 @@ int main()
 
 		/* printing the transpose */
 
-
+		
 	printf("Printing the transpose matrix:\n");
-		for(i=0;i<input1;i++){
-			for(j=0;j<input2;j++){
+		for(i=0;i<input2;i++){
+			for(j=0;j<input1;j++){
 		       printf("%.1f ",arr[j][i]);
 			}
 			printf("\n");
